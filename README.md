@@ -5,16 +5,16 @@
 <h6 align="center"> 💻 Fullstack Developer | 🤖 AI & Cloud Enthusiast | 🌱 Lifelong Learner </h6>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quangdev&style=for-the-badge&color=00FF00" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/quangdev?style=for-the-badge&color=00FF00" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/quangdev?style=for-the-badge&color=00FF00" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=quang38&style=for-the-badge&color=00FF00" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/quang38?style=for-the-badge&color=00FF00" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/quang38?style=for-the-badge&color=00FF00" alt="Stars"/>
 </p>
 
 
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quangdev/quangdev/main/assets/developer.gif" width="300" alt="Developer GIF"/>
+  <img src="https://raw.githubusercontent.com/quang38/quang38/main/assets/developer.gif" width="300" alt="Developer GIF"/>
 </p>
 
 🎓 **University Student** & **Fullstack Developer** passionate about **Artificial Intelligence** and **IoT** innovation.
@@ -105,12 +105,12 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangdev&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00" alt="QUANG.DEV's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdev&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quang38&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00" alt="QUANG.DEV's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quang38&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=quangdev&theme=react&background=0D1117&stroke=00FF00&ring=00FF00&fire=FFB800&currStreakLabel=00FF00" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=quang38&theme=react&background=0D1117&stroke=00FF00&ring=00FF00&fire=FFB800&currStreakLabel=00FF00" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -137,7 +137,7 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
 ## 🏆 **Achievements & Activities**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quangdev&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=quang38&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -145,7 +145,7 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
 ## 📈 **Activity Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangdev&theme=react-dark&bg_color=0D1117&line=00FF00&point=FFB800&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quang38&theme=react-dark&bg_color=0D1117&line=00FF00&point=FFB800&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -166,10 +166,10 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
   <a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-ho%C3%A0ng-87a335378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/quangdev">
+  <a href="https://github.com/quang38">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://vlance.vn/freelancer/quangdev">
+  <a href="https://vlance.vn/freelancer/quang38">
     <img src="https://img.shields.io/badge/Vlance-FF6B35?style=for-the-badge&logo=v&logoColor=white" alt="Vlance"/>
   </a>
 </p>
@@ -183,7 +183,7 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quangdev/quangdev/main/assets/footer.gif" width="300" alt="Footer GIF"/>
+  <img src="https://raw.githubusercontent.com/quang38/quang38/main/assets/footer.gif" width="300" alt="Footer GIF"/>
 </p>
 
 <p align="center">
@@ -191,11 +191,11 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/quangdev">QUANG.DEV</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/quang38">QUANG.DEV</a></sub>
 </p>
 
 ---
 
 <div align="center">
-![Visitor Count](https://profile-counter.glitch.me/count.svg?url=https://github.com/quangdev&style=for-the-badge&color=00FF00)
+![Visitor Count](https://profile-counter.glitch.me/count.svg?url=https://github.com/quang38&style=for-the-badge&color=00FF00)
 </div>
