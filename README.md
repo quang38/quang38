@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+QUANG.DEV;Fullstack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+QUANG.DEV" alt="Typing SVG" />
 </h1>
 
 <h6 align="center"> 💻 Fullstack Developer | 🤖 AI & Cloud Enthusiast | 🌱 Lifelong Learner </h6>
