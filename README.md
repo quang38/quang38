@@ -115,7 +115,7 @@ Become a **Fullstack Developer** capable of building **AI-powered applications**
 
 ---
 
-## � **Featured Projects**  
+## 🌟 **Featured Projects**  
 
 ### 🌟 **Recent Projects**
 
